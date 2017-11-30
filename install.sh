@@ -2,7 +2,7 @@
 # install php 7, mysql 5.5, redis, java 8, maven, htop, swap
 # license: Free
 # author vo uu 
-# group VHB_Sys
+# group ORC Team
 
 # kiem tra thong so server
 yum -y install gawk bc wget lsof
